@@ -1,0 +1,9 @@
+{
+  "generator-swipl": {
+    "packageName": "pl_owl",
+    "packageTitle": "OWL utility predicates over rdf library",
+    "author": "Milan Unger",
+    "email": "nilan.unger@siemens-healthineers.com",
+    "homepage": ""
+  }
+}
